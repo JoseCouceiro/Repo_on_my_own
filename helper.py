@@ -1,3 +1,3 @@
-def get_str():
-    return 'acelga'
+def super_get_str():
+    return 'supercelga'
     

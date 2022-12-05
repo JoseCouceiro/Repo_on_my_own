@@ -9,6 +9,6 @@ c = a + 5
 d = a + b+ c
 e = a + b + c +d
 
-print(e, helper.get_str()) 
+print(e, helper.super_get_str()) 
 
 
